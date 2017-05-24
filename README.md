@@ -1,9 +1,8 @@
 # DFM22BUC03-MLカメラ
 #  TBL3.6C-2MPレンズ
 
-![img](Screenshot2.png)
 
-##Linuxで始める
+## Linuxで始める
 参考
 * [https://github.com/TheImagingSource/tiscamera/wiki/Getting-Started-with-USB-2.0-cameras-on-a-Raspberry-PI-or-on-other-Linux-Systems](https://github.com/TheImagingSource/tiscamera/wiki/Getting-Started-with-USB-2.0-cameras-on-a-Raspberry-PI-or-on-other-Linux-Systems)
 
